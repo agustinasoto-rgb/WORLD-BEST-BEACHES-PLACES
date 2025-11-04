@@ -2,8 +2,47 @@ h1{
 	color:#0fa88f;
 }
 body{
-	background-color: #469e9e;
+	background-color: #93c8cc;
 }
 .pinkParagraph{
 	color: #161717;
+}
+p{
+	color: #161717;
+}
+h2{
+	color: #161717;
+	font-family: Verdana;
+	text-align: centre;
+}
+img{
+	border-radius: 25px;
+}
+img:hover{
+	border-radius: 355px;
+}
+
+ul{
+	list-style-type: none;
+	background-color: #c0faf4;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding: 10px 10px;
+	color: #161717
+}
+ul li a:hover{
+	background-color: #48eaf7;
+	color: #f291d8;
+}
+.active{
+	font-weight: bold;
+	border-bottom: solid 2px #fa0276 ;
 }
