@@ -24,7 +24,7 @@ img:hover{
 
 ul{
 	list-style-type: none;
-	background-color: #c0faf4;
+	background-color: #9ff5f5;
 	overflow: hidden;
 }
 ul li{
@@ -40,9 +40,12 @@ ul li a{
 }
 ul li a:hover{
 	background-color: #48eaf7;
-	color: #f291d8;
+	color: #3237ba;
 }
 .active{
 	font-weight: bold;
-	border-bottom: solid 2px #fa0276 ;
+	border-bottom: solid 2px #1702fa ;
+}
+p{
+	font-size: 30px;
 }
